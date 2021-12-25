@@ -1,5 +1,7 @@
 #  GUYSHOUSE Project
 
+[![guyshouse](https://images.velog.io/images/sae0428/post/681b036a-e7cb-4b90-bc34-0f72026aba47/%EB%82%A8%EC%9D%98%EC%A7%91.JPG)](https://youtu.be/F6Sg-UZp1NY)
+
 ## 🎇 팀명 : 남의집
 
 > 취향 공유 커뮤니티 서비스 [남의집](https://naamezip.com/)을 모티브로 제작하게 된 남의집(GUYSHOUSE) 팀의 백엔드 레포지토리 입니다.
