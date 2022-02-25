@@ -21,7 +21,10 @@
 
 ## 🎬 프로젝트 구현 영상
 
-- 🔗 [영상 링크] : 추후 재업데이트 예정
+<iframe width="640" height="360" src="https://www.youtube.com/watch?v=F6Sg-UZp1NY" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+
+
+
 
 ## ⚙ 적용 기술
 - **Front-End** : JavaScript(ES6), React.js, StyledComponent, HTML5/CSS3
